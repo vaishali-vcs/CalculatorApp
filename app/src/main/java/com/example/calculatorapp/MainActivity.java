@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void plusMinusBTN(View view)
     {
-
+        UpdateText("-");
     }
 
     public void clearBTN(View view)
